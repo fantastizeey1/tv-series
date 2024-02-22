@@ -1,0 +1,15 @@
+.series-list {
+    list-style-type: none;
+    padding-left: 0;
+    
+}
+.link{
+    color: green;
+    padding-bottom: 1rem;
+    text-decoration: none;
+    
+}
+.link:hover{
+    color: #f00bb7;
+    text-decoration: underline;
+}
